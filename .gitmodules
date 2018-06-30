@@ -1,0 +1,9 @@
+[submodule "addons/ulib"]
+	path = addons/ulib
+	url = https://github.com/TeamUlysses/ulib.git
+[submodule "addons/ulx"]
+	path = addons/ulx
+	url = https://github.com/TeamUlysses/ulx.git
+[submodule "addons/TTTDamagelogs"]
+	path = addons/TTTDamagelogs
+	url = https://github.com/Tommy228/TTTDamagelogs.git
